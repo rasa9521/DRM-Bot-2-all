@@ -110,7 +110,7 @@ if __name__ == "__main__":
         
         for i in chat_id:
             try:
-                await SRART.send_message(chat_id=i, text="**Bot Started! ♾ /start **")
+                await PRO.send_message(chat_id=i, text="**Bot Started! ♾ /pro **")
             except Exception as d:
                 print(d)
                 continue
