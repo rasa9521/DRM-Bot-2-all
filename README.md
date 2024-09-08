@@ -2,6 +2,11 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/rishavdevkr)
 
+## Deploy To Render                  
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AnkitShakya95/DRM-Bot-2.git)
+
+
 ## Deploy To Cloud Shell Editor
 
 <a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/AnkitShakya95/DRM-Bot-2&tutorial=help/gcloud.md" >
