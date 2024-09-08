@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: Text Leech Bot
+    name: Ankit Shakya Txt Bot
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/AshutoshGoswami24/text-leech-bot-for-render
+    repo: https://github.com/AnkitShakya95/DRM-Bot-2.git-for-render
     branch: main
     autoDeploy: false
     envVars:
